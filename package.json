@@ -1,0 +1,14 @@
+{
+  "name": "01_form-validation",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass style.scss style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
